@@ -20,7 +20,7 @@ Estou buscando em absorver conhecimento, desenvolver experiências profissionais
 ## 📌 Repositórios em destaque
 <p align="center">
   <a href="https://github.com/paulo-dev-coder/sistema-restaurante-brmw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulo-dev-coder&repo=sistema-restaurante-brmw&v=1theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulo-dev-coder&repo=sistema-restaurante-brmw&v=1" />
   </a>
   <a href="https://github.com/paulo-dev-coder/cripto-cifra">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulo-dev-coder&repo=cripto-cifra&v=2theme=default" />

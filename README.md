@@ -23,7 +23,7 @@ Estou buscando em absorver conhecimento, desenvolver experiências profissionais
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-## Habilidades e competências:
+## 👨‍💻 Habilidades e competências:
 - **Desenvolvimento Web**: estruturação de páginas com HTML5 e estilização com CSS3.
 - **Programação**: lógica de programação e resolução de problemas básicos com Python e C.
 - **Banco de dados**: modelagem e consultas com MySQL; noções de modelagem relacional (BRModelo).

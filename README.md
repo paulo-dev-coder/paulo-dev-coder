@@ -23,5 +23,7 @@ Estou buscando em absorver conhecimento, desenvolver experiências profissionais
 - **[Sistema de ordenação em arquivos na linguagem C](https://github.com/paulo-dev-coder/ordenacao-arquivos-c)**: Programa em linguagem C para ordenação de dados armazenados em arquivos, explorando algoritmos de ordenação e manipulação de arquivos.
 
 ## 👥 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/paulo-olivastro-71ba38445/))
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-olivastro-71ba38445/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>

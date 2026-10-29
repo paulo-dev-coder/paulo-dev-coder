@@ -18,7 +18,7 @@ Estou buscando em absorver conhecimento, desenvolver experiências profissionais
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📌 Repositórios em destaque:
-- **[Sistema de restaurante em BRModelo](https://github.com/paulo-dev-coder/sistema-restaurante-brmw)**: Sistema de gestão para restaurante, com controle de pedidos, cardápio e fluxo de atendimento.
+- **[Sistema de restaurante no BRModelo](https://github.com/paulo-dev-coder/sistema-restaurante-brmw)**: Sistema de gestão para restaurante, com controle de pedidos, cardápio e fluxo de atendimento.
 - **[Sistema de criptografia e Cifra de César](https://github.com/paulo-dev-coder/cripto-cifra)**: Implementação de algoritmos de criptografia e cifras clássicas, com foco em lógica e segurança da informação.
 - **[Sistema de ordenação em arquivos na linguagem C](https://github.com/paulo-dev-coder/ordenacao-arquivos-c)**: Programa em linguagem C para ordenação de dados armazenados em arquivos, explorando algoritmos de ordenação e manipulação de arquivos.
 

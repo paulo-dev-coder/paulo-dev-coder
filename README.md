@@ -1,5 +1,9 @@
 # Olá, tudo bem? Eu espero que sim! 💫
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F5,100:E3E9F0&height=120&section=header&text=Paulo&fontSize=50&fontColor=2F4F4F&animation=fadeIn&fontAlignY=65" alt="Banner com o nome Paulo" />
+</p>
+
 ## 🤔 Quem sou eu?
 
 Meu nome é Paulo. Eu sou um estudante de Análise e Desenvolvimento de Sistemas e estou utilizando esse espaço para inserir os meus trabalhos acadêmicos e acompanhar a minha evolução na área de tecnologia da informação.

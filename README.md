@@ -1,7 +1,7 @@
 # Olá, tudo bem? Eu espero que sim! 💫
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F5,100:E3E9F0&height=120&section=header&text=Seja%20bem-vindo!%21&fontSize=40&fontColor=2F4F4F&animation=fadeIn&fontAlignY=65" alt="Banner com uma frase de boas-vindas"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF2F5,100:E3E9F0&height=120&section=header&text=Seja%20bem-vindo%21&fontSize=40&fontColor=2F4F4F&animation=fadeIn&fontAlignY=65" alt="Banner com uma frase de boas-vindas"/>
 </p>
 
 ## 🤔 Quem sou eu?

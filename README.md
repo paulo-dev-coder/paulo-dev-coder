@@ -30,6 +30,12 @@ Estou buscando em absorver conhecimento, desenvolver experiências profissionais
   </a>
 </p>
 
+## 🧾 Descrições dos repositórios em destaque
+
+- **[Sistema Restaurante BRMW](https://github.com/paulo-dev-coder/sistema-restaurante-brmw)**: Sistema de gestão para restaurante, com controle de pedidos, cardápio e fluxo de atendimento.
+- **[Cripto Cifra](https://github.com/paulo-dev-coder/cripto-cifra)**: Implementação de algoritmos de criptografia e cifras clássicas, com foco em lógica e segurança da informação.
+- **[Ordenação de Arquivos em C](https://github.com/paulo-dev-coder/ordenacao-arquivos-c)**: Programa em linguagem C para ordenação de dados armazenados em arquivos, explorando algoritmos de ordenação e manipulação de arquivos.
+
 ## 👥 Meu contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/paulo-olivastro-71ba38445/))
 

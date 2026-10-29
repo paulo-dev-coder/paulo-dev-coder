@@ -23,6 +23,12 @@ Estou buscando em absorver conhecimento, desenvolver experiências profissionais
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
+## Habilidades e competências:
+- **Desenvolvimento Web**: estruturação de páginas com HTML5 e estilização com CSS3.
+- **Programação**: lógica de programação e resolução de problemas básicos com Python e C.
+- **Banco de dados**: modelagem e consultas com MySQL; noções de modelagem relacional (BRModelo).
+- **Front-end**: interatividade básica com JavaScript.
+
 ## 📌 Repositórios em destaque:
 - **[Sistema de restaurante no BRModelo](https://github.com/paulo-dev-coder/sistema-restaurante-brmw)**: Sistema de gestão para restaurante, com controle de pedidos, cardápio e fluxo de atendimento.
 - **[Sistema de criptografia e Cifra de César](https://github.com/paulo-dev-coder/cripto-cifra)**: Implementação de algoritmos de criptografia e cifras clássicas, com foco em lógica e segurança da informação.

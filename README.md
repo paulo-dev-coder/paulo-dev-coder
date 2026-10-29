@@ -10,7 +10,7 @@ Meu nome é Paulo. Eu sou um estudante de Análise e Desenvolvimento de Sistemas
 
 ## 🎯 Finalidades:
 
-Estou buscando em absorver conhecimento, desenvolver experiências profissionais, uma oportunidade de estágio na área de T.I para aplicar os meus conhecimentos na prática e evoluir continuamente em desenvolvimento de sistemas e banco de dados para realizar tarefas maiores no futuro.
+Estou buscando em absorver conhecimento, em desenvolver experiências profissionais, em uma oportunidade de estágio na área de T.I para aplicar os meus conhecimentos na prática e em evoluir continuamente em desenvolvimento de sistemas e banco de dados para realizar tarefas maiores no futuro.
 
 ## 💻 Linguagens de programação:
 

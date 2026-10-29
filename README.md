@@ -2,7 +2,7 @@
 
 ## 🤔 Quem sou eu?
 
-Meu nome é Paulo, eu sou um estudante de Análise e Desenvolvimento de Sistemas e estou utilizando esse espaço para inserir os meus trabalhos acadêmicos e acompanhar a minha evolução na área de tecnologia da informação.
+Meu nome é Paulo. Eu sou um estudante de Análise e Desenvolvimento de Sistemas e estou utilizando esse espaço para inserir os meus trabalhos acadêmicos e acompanhar a minha evolução na área de tecnologia da informação.
 
 ## 🎯 Finalidades
 

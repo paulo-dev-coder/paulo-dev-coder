@@ -4,6 +4,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1D4ED8&height=120&section=header&text=Seja%20bem-vindo%21&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" alt="Banner com uma frase de boas-vindas"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:3B82F6&height=80&section=footer" alt="Rodapé decorativo" />
+</p>
+
 ## 🤔 Quem sou eu?
 
 Meu nome é Paulo. Eu sou um estudante de Análise e Desenvolvimento de Sistemas e estou utilizando esse espaço para inserir os meus trabalhos acadêmicos e acompanhar a minha evolução na área de tecnologia da informação.

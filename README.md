@@ -4,6 +4,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1D4ED8&height=120&section=header&text=Seja%20bem-vindo%21&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" alt="Banner com uma frase de boas-vindas"/>
 </p>
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulo-dev-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Paulo" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-dev-coder&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
 ## 🤔 Quem sou eu?
 
 Meu nome é Paulo. Eu sou um estudante de Análise e Desenvolvimento de Sistemas e estou utilizando esse espaço para inserir os meus trabalhos acadêmicos e acompanhar a minha evolução na área de tecnologia da informação.
